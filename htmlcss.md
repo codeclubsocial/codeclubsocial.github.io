@@ -7,5 +7,8 @@
   - [HTML5 Tutorial](https://www.w3schools.com/html/)
   - [CSS Tutorial](https://www.w3schools.com/css/)
 
+
+### Other resources
+- [Code Guide by @mdo](http://codeguide.co/)
   <br>
   [<- Back](index.md)
