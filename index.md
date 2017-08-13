@@ -16,23 +16,21 @@ it possible to write and run your code, and keep it organized.
 Next, lets learn to program. It can be challenging to figure out where to start
 and in what order you should study the material.
 
+Most of your time will be spent with the JavaScript language. However, HTML & CSS are also very important.
+If you are not comfortable with HTML/CSS you should focus on learning them first. It should only take a couple of weeks to get comfortable with them. HTML is a markup language, not a programming language. It is intended describe the the visual appearance of the web page. CSS is an enhancement to HTML.
+
+Knowing how to use Git is a basic requirement of any coder's repertoire. Coding without Git is like driving across Arizona in the summer without an air conditioning. You can do it, but it's not recommended.
+
+Once you have all the tools installed you can begin learning how to code.
+
 ### Things you need to know:
 1. [HTML & CSS](htmlcss.md)
 2. [JavaScript](js.md)
 3. [Git CL Syntax](git_cl.md)
 
-Most of your time will be focused on the JavaScript language. When combined with Node, it will require
-months of building apps before you no longer feel like a totalmdd cm beginner. But that's
-okay, because programming gives you super powers. HTML & CSS are also very important,
-however it shouldn't take longer than a couple weeks to get comfortable with them.
-HTML is a markup language, not a programming language. It is intended describe the
-the visual appearance of the web page.
+---
 
-On the other hand, while the tools are equally as important, they require much
-less time to master and gain fluency. Ready or not, the process of coding forces
-you to use them and explore their features.
-
-### CodeClub Resources:
+### CodeClub Links:
 - [Github Organization](https://github.com/codeclubsocial)
 - [Webpage](http://www.codeclub.social)
 - [Meetup Page](https://www.meetup.com/codeclub/)
