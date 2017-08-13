@@ -31,3 +31,6 @@ Quick Install:
   - Scoop: `scoop install nodejs`
   - Download: [.msi](https://nodejs.org/en/download/) ([64-bit](https://nodejs.org/dist/v6.11.2/node-v6.11.2-x64.msi))([32-bit](https://nodejs.org/dist/v6.11.2/node-v6.11.2-x86.msi))
     - [How to install for windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
+
+    <br>
+    [<- Back](index.md)

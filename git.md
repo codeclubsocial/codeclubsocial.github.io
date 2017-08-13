@@ -20,3 +20,6 @@ Quick Install:
   - Download: [.exe](https://git-scm.com/download/win) ([64-Bit](https://github.com/git-for-windows/git/releases/download/v2.14.1.windows.1/Git-2.14.1-64-bit.exe))([32-Bit](https://github.com/git-for-windows/git/releases/download/v2.14.1.windows.1/Git-2.14.1-32-bit.exe))
 
 *For more on [Version Control](https://en.wikipedia.org/wiki/Version_control) (Wikipedia).*
+
+<br>
+[<- Back](index.md)

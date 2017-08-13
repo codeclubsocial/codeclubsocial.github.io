@@ -21,3 +21,6 @@ Quick Install:
   - Chocolatey: `choco install mongodb`
   - Scoop: `scoop install mongodb`
   - Download: [Download Page](https://www.mongodb.com/download-center#community)
+
+  <br>
+  [<- Back](index.md)

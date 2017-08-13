@@ -7,7 +7,7 @@ The first thing you will want to do is install these tools to your system. They 
 it possible to write and run your code, and keep it organized.
 
 ### Tools you will need:
-1. [Text Editor](text_editor.md)
+1. [Atom Text Editor](text_editor.md)
 2. [Git](git.md)
 3. [Github.com Account](github.md)
 4. [Node.js](node.md)
