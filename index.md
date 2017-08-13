@@ -3,7 +3,7 @@
 ### Welcome to CodeClub!
 
 This guide will walk you through the basics of what you will need to get started coding.
-The first thing you will want to do is install these tools to your system. The will make
+The first thing you will want to do is install these tools to your system. They will make
 it possible to write and run your code, and keep it organized.
 
 ### Tools you will need:
