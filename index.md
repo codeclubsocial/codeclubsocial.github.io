@@ -13,6 +13,7 @@ it possible to write and run your code, and keep it organized.
 4. [Node.js](node.md)
 5. [MongoDB](mongo.md)
 
+Once you have all the tools installed you can begin learning how to code.
 ---
 
 ### Learning to Code
@@ -25,7 +26,7 @@ If you are not comfortable with HTML/CSS you should focus on learning them first
 
 Knowing how to use Git is a basic requirement of any coder's repertoire. Coding without Git is like driving across Arizona in the summer without an air conditioning. You can do it, but it's not recommended.
 
-Once you have all the tools installed you can begin learning how to code.
+Take a look at the following pages. We recommend starting with the CodeAcademy tutorials. They are the fastest way to gain a basic understanding of the material.
 
 ### Things you'll need to learn:
 1. [HTML & CSS](htmlcss.md)
