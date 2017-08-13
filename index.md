@@ -27,7 +27,7 @@ Knowing how to use Git is a basic requirement of any coder's repertoire. Coding 
 
 Once you have all the tools installed you can begin learning how to code.
 
-### Things you need to know:
+### Things you'll need to learn:
 1. [HTML & CSS](htmlcss.md)
 2. [JavaScript](js.md)
 3. [Git CL Syntax](git_cl.md)
