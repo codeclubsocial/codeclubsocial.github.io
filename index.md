@@ -13,6 +13,10 @@ it possible to write and run your code, and keep it organized.
 4. [Node.js](node.md)
 5. [MongoDB](mongo.md)
 
+---
+
+### Learning to Code
+
 Next, lets learn to program. It can be challenging to figure out where to start
 and in what order you should study the material.
 
