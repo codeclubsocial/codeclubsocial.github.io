@@ -1,6 +1,6 @@
 # Getting Started
 
-##### Welcome to CodeClub!
+### Welcome to CodeClub!
 
 If you are reading this then you are probably new to CodeClub. This guide is intended to explain to you the basic tools you will need to get started on your coding journey. The goal of a new member is to get through the prerequisites as quickly as possible, so you can dive in and begin contributing to our group coding project.
 
@@ -18,7 +18,7 @@ If you are reading this then you are probably new to CodeClub. This guide is int
 
 ---
 ## <a name="text_editor"></a>Text Editor
-In order to write software you'll need a text editor. You may have heard of editors like Vi/Vim, Emacs, Nano, Sublime and Atom. There is no correct answer to the question of which one you should use. Your choice will come down to personal preference. [Vi](http://ex-vi.sourceforge.net/), [Vim](http://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) and Nano are usual command line text editors. [Sublime](https://www.sublimetext.com/) and [Atom](https://atom.io/) are standalone desktop text editors.
+In order to write software you'll need a text editor. You may have heard of editors like Vi/Vim, Emacs, Nano, Sublime and Atom. There is no correct answer to the question of which one you should use. Your choice will come down to personal preference. [Vi](http://ex-vi.sourceforge.net/), [Vim](http://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) and Nano are usually command line text editors. [Sublime](https://www.sublimetext.com/) and [Atom](https://atom.io/) are standalone desktop text editors.
 
 - ##### [Download the Atom text editor](https://atom.io/)
 
