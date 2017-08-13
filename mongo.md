@@ -2,6 +2,8 @@
 
 ## <a name="mongo"></a>MongoDB
 
+Its a database. You'll need it to develop your node applications.
+
 ### Installing MongoDB
 
 Quick Install:
