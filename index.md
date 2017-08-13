@@ -1,28 +1,28 @@
-## Getting Started
+# Getting Started
 
 ##### Welcome to CodeClub!
 
 If you are reading this then you are probably new to CodeClub. This guide is intended to explain to you the basic tools you will need to get started on your coding journey. The goal of a new member is to get through the prerequisites as quickly as possible, so you can dive in and begin contributing to our group coding project.
 
-##### Tools you will need:
+### Tools you will need:
 1. [Text Editor](#text_editor)
 2. [Git](#git)
 3. [Github.com Account](#github)
 4. [Node.js](#node)
 5. [MongoDB](#mongo)
 
-##### Things you need to know:
+### Things you need to know:
 1. [HTML & CSS](#htmlcss)
 2. [JavaScript](#js)
 3. [Git CL Syntax](#git_cl)
 
 ---
-### <a name="text_editor"></a>Text Editor
+## <a name="text_editor"></a>Text Editor
 In order to write software you'll need a text editor. You may have heard of editors like Vi/Vim, Emacs, Nano, Sublime and Atom. There is no correct answer to the question of which one you should use. Your choice will come down to personal preference. [Vi](http://ex-vi.sourceforge.net/), [Vim](http://www.vim.org/), [Emacs](https://www.gnu.org/software/emacs/) and Nano are usual command line text editors. [Sublime](https://www.sublimetext.com/) and [Atom](https://atom.io/) are standalone desktop text editors.
 
-- ###### [Download the Atom text editor](https://atom.io/)
+- ##### [Download the Atom text editor](https://atom.io/)
 
-### <a name="git"></a>Git
+## <a name="git"></a>Git
 Git is an essential part of your coding toolkit. Whether you are coding a solo project or contributing to a group project, you'll want to manage your codebase by committing your progress to a git repository.
 
 A free and open source distributed version control system, Git is designed to handle everything from small to very large projects with speed and efficiency. ([source](https://git-scm.com/]))
@@ -43,22 +43,22 @@ Quick Install:
 
 *For more on [Version Control](https://en.wikipedia.org/wiki/Version_control) (Wikipedia).*
 
-#### <a name="github"></a>Github.com Account
+### <a name="github"></a>Github.com Account
 Github is where we'll be keeping the Codeclub codebase. You'll need your own account to participate in group coding projects.
 - ###### [Create a Github Account](https://github.com/join?source=header-home)
 
-#### <a name="git_cl"></a>Git Command Line Syntax
+### <a name="git_cl"></a>Git Command Line Syntax
 - [Learn Git](https://www.codecademy.com/learn/learn-git) - CodeAcademy Tutorial (Estimated 2 hours)
 - [try.github.io](https://try.github.io/) - is a fantastic introduction to using Git. Once you run through this tutorial you'll know everything you'll need to know in order to use git and push files to CodeClub's Github repositories.
 
-### <a name="js"></a>JavaScript
+## <a name="js"></a>JavaScript
 - [Learn JavaScript](https://www.codecademy.com/learn/learn-javascript) - The beginning CodeAcademy Tutorial (Estimated 5 hours)
 - [JavaScript](https://www.codecademy.com/learn/javascript) - Continue your learning with the CodeAcademy Tutorial (Estimated 10 hours)
 - [learn-js.org](https://www.learn-js.org/) - An interactive JavaScript tutorial. Whether you are an experienced programmer or not, this website is intended for everyone who wishes to learn the JavaScript programming language.
 
-### <a name="node"></a>Node.js
+## <a name="node"></a>Node.js
 
-#### Installing
+### Installing Node.js
 
 Here at CodeClub we are using the LTS version (6.11.2) of Node. You can
 
@@ -88,7 +88,10 @@ Quick Install:
   - Download: [.msi](https://nodejs.org/en/download/) ([64-bit](https://nodejs.org/dist/v6.11.2/node-v6.11.2-x64.msi))([32-bit](https://nodejs.org/dist/v6.11.2/node-v6.11.2-x86.msi))
     - [How to install for windows](http://blog.teamtreehouse.com/install-node-js-npm-windows)
 
-### <a name="mongo"></a>MongoDB
+## <a name="mongo"></a>MongoDB
+
+### Installing MongoDB
+
 Quick Install:
 - MacOS
   - Homebrew:
@@ -107,7 +110,7 @@ Quick Install:
   - Scoop: `scoop install mongodb`
   - Download: [Download Page](https://www.mongodb.com/download-center#community)
 
-### <a name="htmlcss"></a>HTML & CSS
+## <a name="htmlcss"></a>HTML & CSS
 - [Learn HTML & CSS](https://www.codecademy.com/learn/learn-html-css) - The beginning CodeAcademy Tutorial (Estimated 10 hours)
 - [learn-html.org](http://www.learn-html.org/) - An interactive tutorial that explains how to build HTML & CSS websites step by step.
 - W3 Schools Reference:
